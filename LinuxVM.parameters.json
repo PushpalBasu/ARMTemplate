@@ -4,6 +4,9 @@
   "parameters": {
     "password": {
       "value":"Portal12345!"
+    },
+    "location":{
+      "value":"East US 2"
     }
   }
 }
