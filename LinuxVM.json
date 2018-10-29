@@ -20,6 +20,7 @@
     },
     "password": {
       "type": "securestring"
+      "defaultValue":"Portal12345!"
     }
   },
   "variables": {
