@@ -8,7 +8,7 @@
     },
     "labName": {
       "type": "string",
-      "defaultValue": "IaCTraining"
+      "defaultValue": "IaCtrain001"
     },
     "size": {
       "type": "string",
